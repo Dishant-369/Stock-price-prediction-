@@ -1,0 +1,2 @@
+# Stock-price-prediction-
+Stock Market prediction and analysis is the act of trying to determine the future value of a company stock or other financial instrument traded on an exchange. Stock market is the important part of economy of the country and plays a vital role in growth of the industry and commerce of the country. Both investors and industry are involved in stock market and wants to know whether some stock will rise or fall over certain period of time.
